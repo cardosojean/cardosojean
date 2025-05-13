@@ -3,7 +3,7 @@
 Criei este perfil para registrar e compartilhar minhas experiências.
 
 - 📍 Curitiba, PR
-- 👨‍🎓 Cursando Gestão da Produção Industrial 
+- 👨‍🎓 Cursando Engenharia Elétrica 
 - 👨‍💻 Retornando para o Desenvolvimento Web 
 
 HardSkills:
